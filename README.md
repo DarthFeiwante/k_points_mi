@@ -1,4 +1,4 @@
-
+#k_points_mi
 The program is intended for calculations of k-points density in the reciprocal space, 
 per reciprocal angstrom, from given grid or k-points grid from given density.
 Vectors of the reciprocal space are calculated from ones of the real space.
